@@ -8,7 +8,7 @@
 
 1. Run `yarn` or `npm install` on the root directory of the project
 2. run `yarn build` or `npm run build` on the root directory of the project
-3. copy the file inboxsdk.js to the ./build/static/js
+3. copy the file inboxsdk.js from ./src to the ./build/static/js
 4. in chrome://extensions, load the extension from the ./build folder.
 
 ## Limitations
